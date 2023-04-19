@@ -1,14 +1,14 @@
 import React from "react";
 
 import {
-  Footer,
-  Blog,
-  Possibility,
-  Features,
-  WhatGPT3,
   Header,
+  WhatGPT3,
+  Features,
+  Possibility,
+  Blog,
+  Footer,
 } from "./containers";
-import { CTA, Brand, Navbar } from "./components";
+import { Navbar, Brand, CTA } from "./components";
 
 import "./App.css";
 
