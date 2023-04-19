@@ -7,9 +7,6 @@
   flex-direction: row;
 }
 
-/* .section__padding {
-} */
-
 .gpt3__header-content {
   flex: 1;
   display: flex;
@@ -37,9 +34,6 @@
   color: var(--color-text);
   margin-top: 1.5rem;
 }
-
-/* .gradient__text {
-} */
 
 .gpt3__header-content__input {
   width: 100%;
