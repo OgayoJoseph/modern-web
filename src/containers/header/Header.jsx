@@ -30,9 +30,9 @@ const Header = () => {
           <p>1,600 people requested access a visit in last 24 hours</p>
         </div>
 
-        <div className="gpt3__header-img">
+        {/* <div className="gpt3__header-img">
           <img src={ai} alt="AI" />
-        </div>
+        </div> */}
       </div>
     </header>
   );
