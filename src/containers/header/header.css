@@ -7,8 +7,8 @@
   flex-direction: row;
 }
 
-.section__padding {
-}
+/* .section__padding {
+} */
 
 .gpt3__header-content {
   flex: 1;
@@ -38,8 +38,8 @@
   margin-top: 1.5rem;
 }
 
-.gradient__text {
-}
+/* .gradient__text {
+} */
 
 .gpt3__header-content__input {
   width: 100%;
