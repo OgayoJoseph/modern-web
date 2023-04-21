@@ -1,0 +1,14 @@
+@media screen and (max-width: 550px) {
+  .gpt3__features-container__feature-title h1 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .gpt3__features-container__feature-title p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+
+  .gpt3__features-container__ {
+    margin: 1rem 0;
+  }
+}
